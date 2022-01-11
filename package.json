@@ -1,0 +1,24 @@
+{
+  "name": "deepgram-workshop-boilerplate",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^1.1.0",
+    "express": "^4.17.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/deepgram-workshop"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
